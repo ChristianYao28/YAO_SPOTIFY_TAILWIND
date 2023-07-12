@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
 
 .container {
-    @apply mx-auto max-w-[70rem] w-full;
+    @apply mx-auto max-w-[75rem] w-full;
 }
 
 @layer components {
